@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_164889_pragathi.needit_user" name="x_164889_pragathi.needit_user">0f8bd16adba10300d758f8fdbf96193b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-04 16:52:48</sys_created_on>
+        <sys_id>c78b596edba10300d758f8fdbf961940</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0f8bd16adba10300d758f8fdbf96193b</sys_name>
+        <sys_package display_value="Pragathi Marketing" source="x_164889_pragathi">84823c62db210300d758f8fdbf961929</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pragathi Marketing">84823c62db210300d758f8fdbf961929</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c78b596edba10300d758f8fdbf961940</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-04 16:52:48</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
